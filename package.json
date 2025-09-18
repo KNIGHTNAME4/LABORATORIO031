@@ -1,0 +1,12 @@
+{
+  "name": "laboratorio031",
+  "version": "1.0.0",
+  "description": "Hello Pluralsighters app de Franco Vitate prueba",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
